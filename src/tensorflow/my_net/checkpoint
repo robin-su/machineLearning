@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\machineLearning\\src\\tensorflow\\my_net\\save_net.ckpt"
+all_model_checkpoint_paths: "D:\\machineLearning\\src\\tensorflow\\my_net\\save_net.ckpt"
